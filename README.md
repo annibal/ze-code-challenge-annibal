@@ -2,16 +2,16 @@
 This is a web client that lists products from zé delivery API. User inputs address and sees available products.
 
 ## Roadmap
-* [] static single file prototype
-* [] data fetchers fetching data
-* [] framework tests
-* [] framework for updating components
-* [] refactor using framework
-*   [] tdd
-*   [] address screen
-*   [] product screen
-* [] optimize styles
-* [] recreate with react
+* [ ] static single file prototype
+* [ ] data fetchers fetching data
+* [ ] framework tests
+* [ ] framework for updating components
+* [ ] refactor using framework
+  * [ ] tdd
+  * [ ] address screen
+  * [ ] product screen
+* [ ] optimize styles
+* [ ] recreate with react
 
 ## Installing
 View it live at (insert gh-pages link)
