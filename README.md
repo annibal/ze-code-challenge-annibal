@@ -2,7 +2,7 @@
 This is a web client that lists products from zé delivery API. User inputs address and sees available products.
 
 ## Roadmap
-* [ ] static single file prototype
+* [x] static single file prototype
 * [ ] data fetchers fetching data
 * [ ] framework tests
 * [ ] framework for updating components

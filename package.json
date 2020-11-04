@@ -1,0 +1,23 @@
+{
+  "name": "ze-code-challenge-annibal",
+  "version": "0.0.0",
+  "description": "ze delivery code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annibal/ze-code-challenge-annibal.git"
+  },
+  "author": "Arthur Annibal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annibal/ze-code-challenge-annibal/issues"
+  },
+  "homepage": "https://github.com/annibal/ze-code-challenge-annibal#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
